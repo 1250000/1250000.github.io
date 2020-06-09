@@ -1,0 +1,11 @@
+/* fonts */
+@font-face {
+  font-family: 'MullerRegular';
+  src: url('fonts/MullerRegular.eot');
+  src: local('MullerRegular'),
+    url('fonts/MullerRegular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/MullerRegular.woff') format('woff'),
+    url('fonts/MullerRegular.ttf') format('truetype'),
+    url('fonts/MullerRegular.svg#svgFontName') format('svg');
+  font-style: normal;
+}
