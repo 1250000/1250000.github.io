@@ -4,8 +4,8 @@
   src: url('fonts/MullerRegular.eot');
   src: local('MullerRegular'),
     url('fonts/MullerRegular.eot?#iefix') format('embedded-opentype'),
-    url('fonts/MullerRegular.woff') format('woff'),
     url('fonts/MullerRegular.ttf') format('truetype'),
-    url('fonts/MullerRegular.svg#svgFontName') format('svg');
+    url('fonts/MullerRegular.woff') format('woff'),
+    url('fonts/MullerRegular.woff2') format('woff2');
   font-style: normal;
 }
