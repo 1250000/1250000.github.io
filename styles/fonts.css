@@ -1,11 +1,11 @@
 /* fonts */
 @font-face {
-  font-family: 'MullerRegular';
-  src: url('fonts/MullerRegular.eot');
-  src: local('MullerRegular'),
-    url('fonts/MullerRegular.eot?#iefix') format('embedded-opentype'),
-    url('fonts/MullerRegular.ttf') format('truetype'),
-    url('fonts/MullerRegular.woff') format('woff'),
-    url('fonts/MullerRegular.woff2') format('woff2');
+  font-family: 'Manrope Medium';
+  src: url('fonts/Manrope-Medium.eot');
+  src: local('Manrope Medium'),
+    url('fonts/Manrope-Medium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Manrope-Medium.ttf') format('truetype'),
+    url('fonts/Manrope-Medium.woff') format('woff'),
+    url('fonts/Manrope-Medium.woff2') format('woff2');
   font-style: normal;
 }
